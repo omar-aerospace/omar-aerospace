@@ -21,4 +21,4 @@ I am an aerospace engineering student at Pasadena City College preparing to tran
 - Aircraft performance calculator
 
 ## Goals
-My goal is to develop the technical, project, and teamwork experience needed to begin a career as a propulsion engineer or flight test engineer.Hi there 👋
+My goal is to develop the technical, project, and teamwork experience needed to begin a career as a propulsion engineer or flight test engineer.
