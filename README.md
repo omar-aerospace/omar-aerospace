@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Omar De La Peña
+I am an aerospace engineering student at Pasadena City College preparing to transfer to a four-year aerospace engineering program.
 
-<!--
-**omar-aerospace/omar-aerospace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Career Interests
+- Aircraft propulsion
+- Flight testing
+- Aircraft performance
+- Engineering design
+- Experimental data analysis
 
-Here are some ideas to get you started:
+## Currently Learning
+- Python
+- SolidWorks
+- Git and GitHub
+- Jet engine fundamentals
+- Flight-test fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Beginner Python engineering calculations
+- SolidWorks mechanical components
+- Aircraft performance calculator
+
+## Goals
+My goal is to develop the technical, project, and teamwork experience needed to begin a career as a propulsion engineer or flight test engineer.Hi there 👋
